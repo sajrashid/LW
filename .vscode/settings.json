@@ -1,0 +1,13 @@
+{
+  "cSpell.words": [
+    "COLOUR",
+    "cwapp",
+    "ebug",
+    "Formalise",
+    "opfm",
+    "softwhite",
+    "vitest"
+  ],
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode"
+}

@@ -1,0 +1,12 @@
+@import 'tailwindcss';
+
+@theme {
+  --color-app-graphite: #1a1a1a;
+  --color-app-softwhite: #eaeaea;
+  --color-app-blue: #1f4e79;
+  --color-app-green: #1fbf7a;
+  --color-app-red: #e35a5a;
+  --color-app-on: #00a86b;
+  --color-app-brass: #b08d57;
+  --color-app-slate: #2c2c2c;
+}
