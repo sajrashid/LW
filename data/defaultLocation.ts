@@ -1,6 +1,6 @@
 // src/data/defaultLocation.ts
 
-import type { LocationState } from "../types/LocationState.ts";
+import type { LocationState } from "../src/types/LocationState.ts";
 
 export const defaultLocation: LocationState = {
     locationId: "loc-default",

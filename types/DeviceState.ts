@@ -1,1 +1,0 @@
-// src/types/DeviceState.ts
